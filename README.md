@@ -20,8 +20,8 @@
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clone https://github.com/admcauss-alt/Caussx
-> cd Caussx
+> https://github.com/GETZIIN/FRANKZIIN
+> cd FRANKZIIN
 > bash install.sh
 ```
 
